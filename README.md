@@ -47,6 +47,12 @@ Again males are shown to be the most frequent user types and follow a similar tr
 
 The above analysis clearly shows that Subscribers are the most frequent users of the bike service, highlighting the need for a subscription service.
 
+## Summary
+
+As highlighted above the most popular hours will be before work 7-9am and during the week and also from 5-7pm. Maintenance can be done very early in the morning 2-5am.
+
+There are two further analyses that dug into two elements, the first being offering a subscription service, as 80% of the bike trips in NYC were by suscribers so this needs to be offered. The second is the number of trips by gender with Males representing two thirds of the volumes so this also needs to be considered and the local demographics should be understood to ensure in Des Moines that customers will be open to subscriptions and that there is a large share of males in the region.
+
 ### Number of Bike Trips by User Type
 
 ![Story6](https://user-images.githubusercontent.com/92001105/152610980-43d9f345-9583-41bb-92bf-8d6a59db63dd.png)
@@ -58,3 +64,5 @@ Subscribers are the most significant user type, representing more than 80% of al
 ![Story7](https://user-images.githubusercontent.com/92001105/152611341-02545153-b825-48dd-9f76-cbb581741b69.png)
 
 Males represent 65% of all bike trips, followed by females whom represent 25%.
+
+[link to dashboard](https://public.tableau.com/app/profile/trevor.harren/viz/DesMoinesBikeBusiness/NYCBikeStory?publish=yes)
